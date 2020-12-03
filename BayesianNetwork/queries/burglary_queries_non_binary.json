@@ -1,0 +1,27 @@
+[
+    {
+        "index" : 1,
+        "given" : {"Alarm" : "False"},
+        "tofind" : {"MaryCalls" : "True"}
+    },
+    {
+        "index" : 2,
+        "given" : {"Burglary": "False", "Earthquake": "Not Sure"},
+        "tofind" : {"Alarm": "False"}
+    },
+    {
+        "index" : 3,
+        "given" : {"Burglary": "True"},
+        "tofind" : {"JohnCalls": "False", "MaryCalls": "False"}
+    },
+    {
+        "index" : 4,
+        "given" : {"Burglary": "True", "Earthquake": "Not Sure"},
+        "tofind" : {"JohnCalls": "False", "MaryCalls": "False"}
+    },
+    {
+        "index" : 5,
+        "given" : {"MaryCalls" : "True"},
+        "tofind" : {"Alarm" : "False"}
+    }
+]
